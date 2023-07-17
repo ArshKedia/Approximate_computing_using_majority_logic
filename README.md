@@ -1,4 +1,4 @@
-# Approximate_computing_using_majority_logic
+# Approximate_Computing_using_Majority_Logic
 ## Design and Analysis of Majority Logic based Approximate Adders and Multipliers
 
 # Aim
